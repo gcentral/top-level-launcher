@@ -13,6 +13,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Boolean Enum.ctl" Type="VI" URL="../Boolean Enum.ctl"/>
+		<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Not Main.vi" Type="VI" URL="../Not Main.vi"/>
 		<Item Name="Silent Main.vi" Type="VI" URL="../Silent Main.vi"/>
